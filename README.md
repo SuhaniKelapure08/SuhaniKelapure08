@@ -1,4 +1,4 @@
-<img src="" width="100%"/>
+<img src="https://github.com/SuhaniKelapure08/SuhaniKelapure08/blob/main/headerImage%20(1).png" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Suhani Kelapure 👩‍💻</h1>
 <h3 align="center">Coding enthusiast | Developer and Analyst | Transforming data into insights and ideas into web applications</h3>
