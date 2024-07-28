@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Suhani Kelapure</h1>
+<img src="" width="100%"/>
+
+<h1 align="center">Hi 👋, I'm Suhani Kelapure 👩‍💻</h1>
 <h3 align="center">Coding enthusiast | Developer and Analyst | Transforming data into insights and ideas into web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanikelapure08&label=Profile%20views&color=0e75b6&style=flat" alt="suhanikelapure08" /> </p>
